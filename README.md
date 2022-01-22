@@ -17,7 +17,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-![image](https://user-images.githubusercontent.com/60628855/150656008-dd467e75-122d-4bd6-857c-5e83314cb17c.png)
 
 
 <br>
