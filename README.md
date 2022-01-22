@@ -1,18 +1,8 @@
 <h1 align="center">Hi there,👋 I'm Veronica!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
 
-<h4 align="center">I am a full stack software engineer specialized in JavaScript and PERN stack, who is passionate about solving problems in challenging environments.</h4>
-<h3 align="center">Connect with me</h3> 
-<div align="center">
-<a href="https://twitter.com/veronicaminci" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/veronicaminciuna" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://veronicaminciuna.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div> 
+<h4 align="center">I am a full stack software engineer specialized in JavaScript and PERN stack, who is passionate about solving problems in challenging environments.You can find me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/veronicaminci), or on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/veronicaminciuna/).![image](https://user-images.githubusercontent.com/60628855/150655842-a44779ad-fe5a-428f-ab6e-c720661bd6a7.png)
+</h4>
+
 <br>
 <br>
 <br>
