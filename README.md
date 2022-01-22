@@ -1,7 +1,7 @@
 <h1 align="center">Hi there,👋 I'm Veronica!</h1>
 
 <h5 align="center">I am a full stack software engineer specialized in JavaScript and PERN stack, who is passionate about solving problems in challenging environments.</h5>
-## Connect with me  
+<h3 align="center">Connect with me</h3> 
 <div align="center">
 <a href="https://github.com/veronicaminciuna" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
