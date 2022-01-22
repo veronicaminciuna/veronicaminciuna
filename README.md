@@ -17,7 +17,7 @@
 <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" align="right">
 
 <h2>🔧Technologies & Tools</h2>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
