@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,👋 I'm Veronica!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
 
-<h4 align="center">I am a full stack software engineer specialized in JavaScript and PERN stack, who is passionate about solving problems in challenging environments.You can find me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/veronicaminci), or on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/veronicaminciuna/).![image](https://user-images.githubusercontent.com/60628855/150655842-a44779ad-fe5a-428f-ab6e-c720661bd6a7.png)
+<h4 align="center">I am a full stack software engineer specialized in JavaScript and PERN stack, who is passionate about solving problems in challenging environments.You can find me on <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>(https://twitter.com/https://twitter.com/veronicaminci), or on <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>(https://www.linkedin.com/in/https://www.linkedin.com/in/veronicaminciuna/).
 </h4>
 
 <br>
