@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,👋 I'm Veronica!</h1>
 
-<h5 align="center">I am a full stack software engineer specialized in JavaScript and PERN stack, who is passionate about solving problems in challenging environments.</h5>
+<h4 align="center">I am a full stack software engineer specialized in JavaScript and PERN stack, who is passionate about solving problems in challenging environments.</h4>
 <h3 align="center">Connect with me</h3> 
 <div align="center">
 <a href="https://github.com/veronicaminciuna" target="_blank">
