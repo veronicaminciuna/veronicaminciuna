@@ -1,4 +1,4 @@
-# Hi there,👋 I'm Veronica!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
+<h1 align="center">Hi there,👋 I'm Veronica!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
 
 <h4 align="center">I am a full stack software engineer specialized in JavaScript and PERN stack, who is passionate about solving problems in challenging environments.</h4>
 <h3 align="center">Connect with me</h3> 
