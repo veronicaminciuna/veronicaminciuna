@@ -14,8 +14,8 @@
 </a>  
 </div> 
 
-<img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" align="right"/>
 
 <h2>🔧Technologies & Tools</h2>
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 
