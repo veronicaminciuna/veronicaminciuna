@@ -1,7 +1,7 @@
 <h1 align="center">Hi there,👋 I'm Veronica!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
 
-<h4 align="center">Full stack software engineer specialized in JavaScript and PERN stack, eager to learn new technologies, collaborate, and create.
-</h4>
+<h5 align="center">Full stack software engineer specialized in JavaScript and PERN stack, eager to learn new technologies, collaborate, and create.
+</h5>
 
 
 <br>
@@ -17,6 +17,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
 <h3 align="center">Connect with me</h3> 
 <div align="center">
 <a href="https://github.com/veronicaminciuna" target="_blank">
