@@ -17,7 +17,10 @@ I am always eager to work on new challenges and find smart solutions to complex 
   
 The challenges, continuous learning, the satisfaction from programming, collaboration, and creation through coding are the main reasons I love being a software engineer.
 </p>
-
+<br>
+<br>
+<br>
+<br>
 
 <h2>🔧&nbsp;Technologies & Tools</h2>
 <img align="right" style="width:30vw;border-radius:10px;" alt="GIF" src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" />
