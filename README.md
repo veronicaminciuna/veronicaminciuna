@@ -3,9 +3,17 @@
 <h5 align="center">Full stack software engineer specialized in JavaScript and PERN stack, eager to learn new technologies, collaborate, and create.
 </h5>
 
+<br>
+<br>
 
-<br>
-<br>
+##About me
+<p>
+After getting my MBA in Finance and Information Systems I developed a fascination with coding. Every single one of the digital experiences we enjoy is the result of code.
+  <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif">
+I decided to teach myself Javascript by learning it through online platforms such as [FreeCodeCamp](https://freecodecamp.org/) and immediately fell in love with the development process. That led me to enroll in a full-time software engineering program where I was able to work in agile teams and build full-stack single-page applications.
+I am always eager to work on new challenges and find smart solutions to complex problems. I find it fulfilling and empowering to know that the product or functionality of what I am building can affect many people. Every project provides a significant sense of accomplishment when you build something not from physical objects, but from your mind.
+The challenges, continuous learning, the satisfaction from programming, collaboration, and creation through coding are the main reasons I love being a software engineer.
+</p>
 
 
 <h2>🔧&nbsp;Technologies & Tools</h2>
