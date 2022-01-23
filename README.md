@@ -19,7 +19,7 @@
 
 </br>
 
-## About Me
+## 👩‍💻About Me
 <p>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
 After getting my MBA in Finance and Information Systems I developed a fascination with coding. Every single one of the digital experiences we enjoy is the result of code. 
