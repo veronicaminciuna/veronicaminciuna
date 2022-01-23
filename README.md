@@ -3,9 +3,6 @@
 <h5 align="center">Full stack software engineer specialized in JavaScript and PERN stack, eager to learn new technologies, collaborate, and create.
 </h5>
 
-<br>
-<br>
-
 ## About me
 <p>
 After getting my MBA in Finance and Information Systems I developed a fascination with coding. Every single one of the digital experiences we enjoy is the result of code.
