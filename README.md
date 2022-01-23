@@ -6,7 +6,7 @@
 <br>
 <br>
 
-##About me
+## About me
 <p>
 After getting my MBA in Finance and Information Systems I developed a fascination with coding. Every single one of the digital experiences we enjoy is the result of code.
   <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" align="left">
