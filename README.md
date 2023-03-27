@@ -21,7 +21,7 @@
 
 ## 👩‍💻About Me
 <p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
+  <img style="width:30vw;border-radius:15px;" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
 After getting my MBA in Finance and Information Systems I developed a fascination with coding. Every single one of the digital experiences we enjoy is the result of code. 
 
   I decided to teach myself Javascript by learning it through online platforms such as [FreeCodeCamp](https://freecodecamp.org/) and immediately fell in love with the development process. That led me to enroll in a full-time software engineering program where I was able to work in agile teams and build full-stack single-page applications.
