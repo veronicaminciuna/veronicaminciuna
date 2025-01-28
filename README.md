@@ -1,18 +1,5 @@
 <h1 align="center">Hi there,👋 I'm Veronica!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
 
-<h5 align="center">Full Stack web developer specialized in JavaScript and MERN stack, eager to learn new technologies, collaborate, and create.</h5>
-<h3 align="center">Connect with me</h3> 
-<div align="center">
-<a href="https://veronicaminciuna.com/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-</a>
-<a href="https://linkedin.com/in/veronicaminciuna" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://veronicaminciuna.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div> 
 
 </br>
 
